@@ -8,7 +8,7 @@ export default function RiodeJaneiro()
         O estado do Rio de Janeiro é conhecido por suas paisagens naturais deslumbrantes, como praias famosas e a Floresta da Tijuca. É um importante centro econômico e cultural do Brasil, com destaque para a capital homônima, que atrai turismo mundial. Além disso, o estado possui uma forte tradição na música, no carnaval e na indústria do petróleo.
             </p>
              <p>
-                <img src="" alt="" />
+                <img src="/RJ.png" alt="" />
              </p>
 
              <p>

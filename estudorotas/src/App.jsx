@@ -40,6 +40,22 @@ import Piaui from "./Paginas/Piaui";
 
 import Maranhao from "./Paginas/Maranhao";
 
+
+import Amazonia from "./Paginas/Amazonas";
+
+import Roraima from "./Paginas/Roraima";
+
+import Amapa from "./Paginas/Amapa";
+
+import Para from "./Paginas/Para";
+
+import Tocantins from "./Paginas/Tocantins";
+
+import Rondonia from "./Paginas/Rondonia";
+
+import Acre from "./Paginas/Acre";
+
+
 import  "./App.css";
 
 export default function App()

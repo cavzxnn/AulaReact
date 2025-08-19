@@ -29,15 +29,15 @@ export default function Home()
 
             <li><a href="/MT">Mato Grosso</a></li>
             <li><a href="/MS">Mato Grosso do Sul</a></li>
-            <li><a href="/GO">Goiás</a></li>
+            <li><a href="/GO">Goias</a></li>
         </ul>
              <h3>Estados da Região Nordeste</h3>
 
         <ul>
         
-            <li><a href="/MA">Maranhão</a></li>
-            <li><a href="/PI">Piauí</a></li>
-            <li><a href="/CE">Ceará</a></li>
+            <li><a href="/MA">Maranhao</a></li>
+            <li><a href="/PI">Piaui</a></li>
+            <li><a href="/CE">Ceara</a></li>
             <li><a href="/RN">Rio Grande do Norte</a></li>
             <li><a href="/PE">Pernambuco</a></li>
             <li><a href="/PB">Paraíba</a></li>
@@ -50,7 +50,7 @@ export default function Home()
 
         <ul>
 
-            <li><a href="/AM">Amazonia</a></li>
+            <li><a href="/AM">Amazonas</a></li>
             <li><a href="/RR">Roraima</a></li>
             <li><a href="/AP">Amapá</a></li>
             <li><a href="/PA">Pará</a></li>

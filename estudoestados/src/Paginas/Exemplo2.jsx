@@ -29,6 +29,9 @@ Digite o Segundo nota <br />
 <input type='button' value='Calcular' />
 </p>
 
+<p>
+  <a  href="/">Voltar</a>
+</p>
 
 </from>
       

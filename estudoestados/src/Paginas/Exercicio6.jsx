@@ -1,3 +1,4 @@
+
 export default function Exercicio6() {
     return (
       <div>
